@@ -6,4 +6,4 @@
 ## DEPLOY TO HEROKU
 
 
-[![Deploy to heroku chacha](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/rohit340000/Pagal-txt-to-video-)
+[![Deploy to heroku chacha](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/aditya94139/Pagal-txt-to-video-)
